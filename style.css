@@ -1,0 +1,9 @@
+canvas {
+  border: 1px solid black;
+  background: black;
+}
+
+body {
+  overflow: hidden; /* this removes the scroll bar */
+  margin: 0;  /* takes all the browser space */
+}
